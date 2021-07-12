@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="233.588" height="227.482" viewBox="0 0 233.588 227.482">
+  <g id="Group_1" data-name="Group 1" transform="translate(-365 -229)">
+    <path id="Icon_ionic-md-sunny" data-name="Icon ionic-md-sunny" d="M130.15,2.25H107.886v32.5H130.15V2.25Zm67.313,22.19-20.022,19.5,15.59,15.182,20.022-19.5L197.462,24.44Zm-156.837,0L25.035,39.622l20.022,19.5,15.59-15.182L40.625,24.44ZM119.044,51C82.337,51,52.3,80.244,52.3,115.991s30.033,64.995,66.739,64.995,66.739-29.248,66.739-64.995S155.75,51,119.044,51Zm116.794,54.179h-33.37v21.682h33.37V105.175Zm-200.218,0H2.25v21.682H35.62V105.175Zm157.411,67.686-15.59,15.182,20.022,19.5,15.59-15.182-20.022-19.5Zm-147.974,0-20.022,19.5,15.59,15.182,20.022-19.5-15.59-15.182Zm85.093,24.373H107.886v32.5H130.15v-32.5Z" transform="translate(362.75 226.75)" fill="#fff500"/>
+    <text id="UI" transform="translate(453 370)" font-size="72" font-family="HelveticaNeue-CondensedBold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">UI</tspan></text>
+  </g>
+</svg>
