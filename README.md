@@ -8,7 +8,7 @@
 
 <div>
 
-## :question: Why Summer UI?
+## :question: Why Sun UI?
 
 <i> " I want to **develop** **modern**, **consistent**, **accessible** and **customizable** user interfaces such as Facebook UI, but **I don't know nothing** about the **design fundamentals and principles!** or the best workflow that let me code **static mockups and prototypes** and convert them to **beautiful and dynamic** UI in the browser with an **effective** way. How can I transform my awesome idea into real product without relying on a designer. How can I grasp knowledge about designing user interfaces without spending **long time in reading dozens of blogs and books**? How can I give a constructive feedback to our designer(s) about the current UI?" </i>
 
