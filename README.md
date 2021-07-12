@@ -20,7 +20,7 @@ Most of the designers are visionary and creative people, while most of us (the p
 
 ## :rocket: Mission
 
-My mission through this project is to simplify the UI design for **FRONT-END** developers using specific tactics and quick tips explained from a developer's point-of-view.
+My mission through this project is to simplify the UI design for **FRONT-END** developers using specific tactics and practical tips explained from a developer's point-of-view.
 
 ## :bouquet: Value
 
