@@ -31,3 +31,19 @@ Learn how to create consistent and modern user interfaces or improve the current
 </div>
 
 ---
+
+<details><summary><b>TIP 01: Use primary colors for primary actions</b></summary>
+<p>
+
+Buttons should be the **first choice** when designing for action because that is what buttons are intended for and what users expect.
+
+When a user interface prompts users to take action, they’ll see at least two buttons. One button is **primary** to the user’s task and the other is **secondary**. To make this distinction clear, you have to use **visual weight**.
+
+The button with the strongest visual weight will get the most attention. It’s important that **primary actions** have the **strongest visual weight**. **Secondary actions** should have the **weakest visual weight.**
+
+<br>
+
+<img src="./assets/TIP-1.png" width='100%'>
+
+</p>
+</details>
