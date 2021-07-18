@@ -41,9 +41,39 @@ When a user interface prompts users to take action, they’ll see at least two b
 
 The button with the strongest visual weight will get the most attention. It’s important that **primary actions** have the **strongest visual weight**. **Secondary actions** should have the **weakest visual weight.**
 
-<br>
+---
 
-<img src="./assets/TIP-1.png" width='100%'>
+<img src="./assets/TIP-1.png" width='100%'/>
 
 </p>
 </details>
+
+---
+
+<details><summary><b>TIP 02: Visually differentiate Primary and Secondary actions</b></summary>
+<p>
+
+**The primary action** is an action that allows the user to accomplish their most **common or most important goal**.
+
+**Secondary actions** are any actions that are less important. When in doubt, the default action is the primary one.
+
+Be sure to give prominence to the primary action button by making the secondary action appear secondary, visually.
+
+<br>
+
+<img src="./assets/TIP-2.png" width='100%'/>
+
+<br>
+
+<p>
+
+You'll notice on many Sign Up / Log In designs, the Sign Up button is always primary.
+
+The reason is that if you've already signed up for an account, there is a good chance you'll be automatically signed-in. If not, you're familiar with the site and will know where to go to log in. That primary Sign Up button is there to direct all the new visitors to the site.
+
+</p>
+
+</p>
+</details>
+
+---
