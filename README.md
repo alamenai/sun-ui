@@ -61,7 +61,7 @@ Be sure to give prominence to the primary action button by making the secondary 
 
 <br>
 
-<img src="./assets/TIP-2.png" width='100%'/>
+<img src="./assets/TIP-2@2x.png" width='100%'/>
 
 <br>
 
